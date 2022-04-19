@@ -1,0 +1,10 @@
+{
+  "exclusive_classes":true,
+  "architecture":"simple_cnn",
+  "labels":[
+    "real",
+    "fake"
+  ],
+  "pretrained_vectors":null,
+  "pretrained_dims":null
+}
